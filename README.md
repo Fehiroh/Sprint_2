@@ -3,16 +3,6 @@
 
 
 
-![fig 11](https://github.com/Fehiroh/thrg/blob/master/figures/fig_11.png)
-![fig 12a](https://github.com/Fehiroh/thrg/blob/master/figures/fig_12a.png)
-![fig 12b](https://github.com/Fehiroh/thrg/blob/master/figures/fig_12b.png)
-![fig_13.png](https://github.com/Fehiroh/thrg/blob/master/figures/fig_13.png)
-![fig_14.png](https://github.com/Fehiroh/thrg/blob/master/figures/fig_14.png)
-![fig_15.png](https://github.com/Fehiroh/thrg/blob/master/figures/fig_15.png)
-![fig_16.png](https://github.com/Fehiroh/thrg/blob/master/figures/fig_16.png)
-![fig_17.png](https://github.com/Fehiroh/thrg/blob/master/figures/fig_17.png)
-![fig_18.png](https://github.com/Fehiroh/thrg/blob/master/figures/fig_18.png)
-
 For the repository information (what the folders are, what they contain), scroll down to the **Repository Layout** section
 
 ## Overview: Purpose, and Progress
@@ -66,6 +56,17 @@ using R.
 
 ### **EDA**
 Contains a pdf export of the early EDA of the data, which was initially performe in R (see **Files**).  
+
+![fig 11](https://github.com/Fehiroh/thrg/blob/master/figures/fig_11.png)
+![fig 12a](https://github.com/Fehiroh/thrg/blob/master/figures/fig_12a.png)
+![fig 12b](https://github.com/Fehiroh/thrg/blob/master/figures/fig_12b.png)
+![fig_13.png](https://github.com/Fehiroh/thrg/blob/master/figures/fig_13.png)
+![fig_14.png](https://github.com/Fehiroh/thrg/blob/master/figures/fig_14.png)
+![fig_15.png](https://github.com/Fehiroh/thrg/blob/master/figures/fig_15.png)
+![fig_16.png](https://github.com/Fehiroh/thrg/blob/master/figures/fig_16.png)
+![fig_17.png](https://github.com/Fehiroh/thrg/blob/master/figures/fig_17.png)
+![fig_18.png](https://github.com/Fehiroh/thrg/blob/master/figures/fig_18.png)
+
 
 ### **Files**
 Contains the end results of my scrapping, as well as my initial work with the data set(lab2(version2).R)
