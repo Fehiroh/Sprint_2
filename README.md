@@ -1,6 +1,9 @@
     
 # Boardgame_rule_submission_Sprint_2
 
+
+![Logo of the project](https://github.com/Fehiroh/thrg/blob/master/figures/fig_11.png)
+
 For the repository information (what the folders are, what they contain), scroll down to the **Repository Layout** section
 
 ## Overview: Purpose, and Progress
