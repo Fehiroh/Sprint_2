@@ -1,20 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@Fehiroh 
-1
-0 0 Fehiroh/thrg Private
- Code  Issues 0  Pull requests 0  Projects 0  Security  Insights  Settings
-thrg/sprint_2_readme_prototype
-@Fehiroh Fehiroh Create sprint_2_readme_prototype
-929e35e 2 days ago
-64 lines (49 sloc)  3.89 KB
     
 # Boardgame_rule_submission_Sprint_2
 
