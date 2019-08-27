@@ -75,15 +75,4 @@ Contains the end results of my scrapping, as well as my initial work with the da
 Contains the R scripts used to scrape boardgamegeek and create the files present in the files folder.
 
 For additional information on each folder, see the readme files located in each.
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
